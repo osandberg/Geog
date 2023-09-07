@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20140315</CreaDate>
+		<CreaTime>11420900</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20051129</SyncDate>
+		<SyncTime>09475800</SyncTime>
+		<ModDate>20051129</ModDate>
+		<ModTime>09475800</ModTime>
+		<DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\ZHANG-HOME\H$\backupzcrapril112011\zcr\teaching\Internet GIS\Internet GIS UConn\lab\lab 1\lab1data\County_Index</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="H:\backupzcrapril112011\zcr\data\Connecticut data\CT GIS DATA\Administrative and Political Boundaries\County Boundary\County_Index" dest="\\ZHANG-HOME\H$\backupzcrapril112011\zcr\teaching\Internet GIS\Internet GIS UConn\lab\lab 1\lab1data\County_Index" date="20140315" time="11420900"></copy></copyHistory></DataProperties></Esri>
+	<idinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.722</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>County Index is a 1:125,000-scale polygon feature-based layer that includes a polygon feature for every Connecticut county. There are 8 polygon features in this layer. The corresponding county number and county name attributes uniquely identify individual county polygon features. The county number values are based on an alphabetic sort of county names and range from 1 to 8.</abstract>
+			<purpose>County Index is a general purpose index map of Connecticut counties based on information compiled at 1:125,000 scale (1 inch equals approximately 2 miles). The layer is designed to be used to depict Connecticut counties at small scales or on small maps printed on regular size (8.5 x 11 inch) paper, for example. This County Index layer does not accurately represent Connecticut county boundaries because it was digitized at 1:125,000 scale. Do not display, map or analyze the County Index layer with information collected at larger scales. To depict more accurate 1:24,000-scale Connecticut state, county, and town boundaries on a map, use the layer named Town, which is also published by the State of Connecticut Department of Environmental Protection.</purpose>
+		</descript>
+		<citation>
+			<citeinfo>
+				<pubdate>19860101</pubdate>
+				<title>County Index</title>
+				<ftname Sync="TRUE">County_Index</ftname>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://www.dep.state.ct.us/gis</onlink>
+				<pubinfo>
+					<pubplace>Hartford, Connecticut, USA</pubplace>
+					<publish>State of Connecticut, Department of Environmental Protection</publish>
+				</pubinfo>
+				<othercit>The USGS is the collector of the mapped county and town boundary data (compiler). The State of Connecticut, Department of Environmental Protection is the creator and maintainer of the data layer (editor) and producer (publisher) of this information for use. The 2005 Edition includes the same set of geographic features published in 1986 with the addition of metadata. This layer includes information that is static and does not change over time. Data is not updated. Data compiled at 1:125,000 scale.</othercit>
+				<edition>2005</edition>
+				<origin>U.S Geological Survey, National Mapping Program (data compiler)</origin><origin>State of Connecticut, Department of Environmental Protection (data editor and publisher)</origin></citeinfo>
+		</citation>
+		<timeperd>
+			<current>Edition date</current>
+			<timeinfo>
+				<sngdate><caldate>2005</caldate></sngdate></timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-73.742172</westbc>
+				<eastbc Sync="TRUE">-71.781365</eastbc>
+				<northbc Sync="TRUE">42.052612</northbc>
+				<southbc Sync="TRUE">40.988796</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">730512.187500</leftbc>
+				<rightbc Sync="TRUE">1263094.375000</rightbc>
+				<bottombc Sync="TRUE">558166.312500</bottombc>
+				<topbc Sync="TRUE">944279.187500</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>small scale</themekey>
+				<themekey>county</themekey>
+				<themekey>index</themekey></theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>United States</placekey>
+				<placekey>Connecticut</placekey>
+			</place>
+		</keywords>
+		<accconst>None. The data is in the public domain and may be redistributed.</accconst>
+		<useconst>No restrictions or legal prerequisites for using the data. The data is suitable for use at appropriate scale, and is not intended for maps printed at scales greater or more detailed than 1:125,000 scale (1 inch equals approximately 2 miles). Although this data set has been used by the State of Connecticut, Department of Environmental Protection, no warranty, expressed or implied, is made by the State of Connecticut, Department of Environmental Protection as to the accuracy of the data and or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the State of Connecticut, Department of Environmental Protection in the use of these data or related materials. The user assumes the entire risk related to the use of these data. Once the data is distributed to the user, modifications made to the data by the user should be noted in the metadata. When printing this data on a map or using it in a software application, analysis, or report, please acknowledge the State of Connecticut, Department of Environmental Protection and the U.S. Geological Survey, National Mapping Program as the source for this information.  For example, include the following data source description when printing this layer on a map: Counties - From the County Index layer, compiled and published by CT DEP and the USGS. Source map scale is 1:125,000.</useconst>
+		<natvform Sync="TRUE">Shapefile</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>79 Elm Street</address>
+					<city>Hartford</city>
+					<state>Connecticut</state>
+					<postal>06106</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>860-424-3540</cntvoice>
+				<cntfax>860-424-4058</cntfax>
+				<cntemail>dep.gisdata@po.state.ct.us</cntemail>
+				<hours>Monday to Friday, 08:30 to 16:30 Eastern Standard Time</hours>
+				<cntorgp>
+					<cntorg>State of Connecticut, Department of Environmental Protection</cntorg>
+					<cntper>Howie Sternberg</cntper>
+				</cntorgp>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsed>Full view of Connecticut County Index layer</browsed>
+			<browsen>http://www.dep.state.ct.us/gis/dataguides/dep/layers/images/countyindex.gif</browsen>
+			<browset>GIF</browset>
+		</browse>
+	</idinfo>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.722</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"/>
+		</dataLang>
+		<idCitation>
+			<resTitle Sync="TRUE">County_Index</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"/>
+			</presForm>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"/>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">730512.1875</westBL>
+					<eastBL Sync="TRUE">1263094.375</eastBL>
+					<northBL Sync="TRUE">944279.1875</northBL>
+					<southBL Sync="TRUE">558166.3125</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-73.742172</westBL>
+			<eastBL Sync="TRUE">-71.781365</eastBL>
+			<northBL Sync="TRUE">42.052612</northBL>
+			<southBL Sync="TRUE">40.988796</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+	</dataIdInfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Hartford</city>
+					<state>Connecticut</state>
+					<postal>06106-5127</postal>
+					<address>79 Elm Street</address>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>860-424-3540</cntvoice>
+				<cntfax>860-424-4058</cntfax>
+				<cntemail>dep.gisdata@po.state.ct.us</cntemail>
+				<hours>Monday to Friday, 08:30 to 16:30 Eastern Standard Time</hours>
+				<cntorgp>
+					<cntorg>State of Connecticut, Department of Environmental Protection</cntorg>
+					<cntper>Howie Sternberg</cntper>
+				</cntorgp>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20051129</metd>
+		<metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"/>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distinfo>
+		<resdesc>County Index layer</resdesc>
+		<stdorder>
+			<fees>An online copy of the data may be accessed without charge.</fees>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<formvern>ArcGIS 8.3</formvern>
+					<filedec>Zip file</filedec>
+					<transize Sync="TRUE">0.205</transize>
+					<dssize Sync="TRUE">0.205</dssize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.dep.state.ct.us/gis</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>79 Elm Street</address>
+					<city>Hartford</city>
+					<state>Connecticut</state>
+					<postal>06106-5127</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>860-424-3540</cntvoice>
+				<cntfax>860-424-4058</cntfax>
+				<cntemail>dep.gisdata@po.state.ct.us</cntemail>
+				<cntorgp>
+					<cntorg>State of Connecticut, Department of Enviromental Protection</cntorg>
+				</cntorgp>
+				<hours>Monday to Friday, 08:30 to 16:30 Eastern Standard Time</hours>
+			</cntinfo>
+		</distrib>
+		<custom>The data distributor does not provide custom GIS analysis or mapping services. Data is available in a standard format and may be converted to other formats, projections, coordinate systems, or selected for specific geographic regions by the party receiving the data.</custom>
+		<techpreq>Geographic information sytem (GIS), computer-aided drawing or other mapping software is necessary to display, view and access the information.</techpreq>
+	</distinfo>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc Sync="TRUE">002</orDesc>
+					<linkage Sync="TRUE">file://\\EGIC-STERNBE-H\C$\NAD83\archive\political\shapes\County_Index.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</onLineSrc>
+				<transSize Sync="TRUE">0.205</transSize>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">Shapefile</formatName>
+			</distorFormat>
+		</distributor>
+	</distInfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<esriterm Name="County_Index">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom Sync="TRUE">Polygon</efeageom>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">8</efeacnt>
+				<spindex Sync="TRUE">FALSE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+			</esriterm>
+			<sdtsterm Name="County_Index">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">8</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+		<indspref>State of Connecticut, United States of America</indspref>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+				<projcsn Sync="TRUE">NAD_1983_StatePlane_Connecticut_FIPS_0600_Feet</projcsn>
+			</cordsysn>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<plandu Sync="TRUE">survey feet</plandu>
+					<coordrep>
+						<absres Sync="TRUE">0.001024</absres>
+						<ordres Sync="TRUE">0.001024</ordres>
+					</coordrep>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">41.200000</stdparll><stdparll Sync="TRUE">41.866667</stdparll><longcm Sync="TRUE">-72.750000</longcm><latprjo Sync="TRUE">40.833333</latprjo><feast Sync="TRUE">999999.999996</feast><fnorth Sync="TRUE">499999.999998</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">NAD_1983_StatePlane_Connecticut_FIPS_0600_Feet</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"/>
+			</topLvl>
+			<geometObjs Name="County_Index"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">8</geoObjCnt></geometObjs></VectSpatRep>
+	</spatRepInfo>
+	<eainfo>
+		<overview>
+			<eaover>Includes one polygon feature for each Connecticut county, uniquely identified with County number and County name attribute values. Label polygon features with the COUNTY attribute to display county names on a map.</eaover>
+		</overview>
+		<detailed Name="County_Index">
+			<enttyp>
+				<enttypl>County Index Features</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">8</enttypc>
+				<enttypd>Includes one polygon feature for each Connecticut county.</enttypd></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attalias Sync="TRUE">FID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">CNTY_COD</attrlabl>
+				<attwidth Sync="TRUE">1</attwidth>
+				<atoutwid Sync="TRUE">3</atoutwid>
+				<attrtype Sync="TRUE">Number</attrtype>
+				<attrdefs>State of Connecticut, Department of Environmental Protection</attrdefs>
+				<attrdef>County Number - ID number for the County based on an alphabetic sort of couny names.</attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>1</edomv>
+						<edomvd>Fairfield</edomvd>
+					</edom>
+					<edom>
+						<edomv>2</edomv>
+						<edomvd>Hartford</edomvd>
+					</edom>
+					<edom>
+						<edomv>3</edomv>
+						<edomvd>Litchfield</edomvd>
+					</edom>
+					<edom>
+						<edomv>4</edomv>
+						<edomvd>Middlesex</edomvd>
+					</edom>
+					<edom>
+						<edomv>5</edomv>
+						<edomvd>New Haven</edomvd>
+					</edom>
+					<edom>
+						<edomv>6</edomv>
+						<edomvd>New London</edomvd>
+					</edom>
+					<edom>
+						<edomv>7</edomv>
+						<edomvd>Tolland</edomvd>
+					</edom>
+					<edom>
+						<edomv>8</edomv>
+						<edomvd>Windham</edomvd>
+					</edom>
+				</attrdomv>
+				<attalias Sync="TRUE">CNTY_COD</attalias></attr>
+			<attr>
+				<attrlabl Sync="TRUE">COUNTY</attrlabl>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atoutwid Sync="TRUE">16</atoutwid>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attrdefs>State of Connecticut, Department of Environmental Protection</attrdefs>
+				<attrdef>County Name - Text values that correspond to numeric COUNTY_NO attribute values. COUNTY is the English language equivalent of (decodes) the COUNTY_NO field.</attrdef>
+				<attrdomv>
+					<udom>See Enumerated Domain Value Definitions for CNTY_COD attribute.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">COUNTY</attalias></attr>
+		</detailed>
+	</eainfo>
+	<mdDateSt Sync="TRUE">20051129</mdDateSt>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<horizpar>The horizontal positional accuracy of this data is unknown. Avoid displaying or printing this information at map scales greater than 1:125,000 (1 inch equals approximately 2 miles).</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srcscale>125000</srcscale>
+				<typesrc>disc</typesrc>
+				<srccitea>Source 1 - Town_Index.shp</srccitea>
+				<srctime>
+					<timeinfo>
+						<sngdate><caldate>1986</caldate></sngdate></timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccite>
+					<citeinfo>
+						<origin>State of Connecticut, Department of Environmental Protection</origin>
+						<title>Town Index</title>
+						<pubinfo>
+							<pubplace>Hartford, Connecticut, USA</pubplace><publish>State of Connecticut, Department of Environmental Protection</publish></pubinfo>
+						<onlink>http://www.dep.state.ct.us/gis</onlink></citeinfo>
+				</srccite>
+				<srccontr>Town_Index.shp was originally in ArcInfo Coverage format and digitized in 1986 using the Connecticuct State Plane Coordinate System, North American Datum of 1927 (NAD27). In 1999, the data was converted to ESRI Shapefile format and to the Connecticut State Plane Coordinate System, North American Datum of 1983 (NAD83). The 2005 edition includes complete metadata. Town_Index.shp is in Shapefile format. Prior to 2005, this shapefile was named Town.shp. Town_Index is based on boundary information published on a 1;125,000-scale U.S. Gelogical Survey planimetric map of the State of Connecticut. The planimetry for this map was revised in 1974.</srccontr></srcinfo>
+			<procstep>
+				<procdesc>Create County Index layer - County Index is derived from the 1:125,000-scale Town Index layer, which is also published by the State of Connecticut, Department of Environmental Protection. To derive county polygon features from town polygon features, town features were attributed with county number and name values. Towns polygon features in the same county were then merged to form eight polygon features, one for each county. The TOWN_NO and TOWN attributes from the Town Index layer were replaced with CNTY_COD and COUNTY attributes that store county number and name, respectively. Using ArcView 3.3 software and an Avenue script named Table.ExportSorted (Peter Girard, author) available from the ArcScripts download page at www.esri.com, the polygon feature attribute table was permanently sorted in ascending order by County number.</procdesc>
+				<procsv>ArcInfo 8.3</procsv>
+				<procdate>1986-2005</procdate>
+				<srcused>Source 1 - Town_Index.shp</srcused>
+				<srcprod>Source 2 - County_Index.shp</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>State of Connecticut, Department of Environmental Protection</cntorg>
+							<cntper>Howie Sternberg</cntper></cntorgp>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<srcinfo><srccitea>Source 2 - County_Index.shp</srccitea><typesrc>disc</typesrc><srcscale>125000</srcscale><srccite><citeinfo><title>County Index</title><origin>State of Connecticut, Department of Environmental Protection</origin><onlink>http://www.dep.state.ct.us/gis</onlink><pubinfo><pubplace>Hartford, Connecticut, USA</pubplace><publish>State of Connecticut, Department of Environmental Protection</publish></pubinfo></citeinfo></srccite><srctime><timeinfo><sngdate><caldate>1986</caldate></sngdate></timeinfo><srccurr>publication date</srccurr></srctime><srccontr>County_Index.shp is in Shapefile format. Prior to 2005, this shapefile was named County.shp. The 2005 edition includes complete metadata.</srccontr></srcinfo></lineage>
+		<complete>The completeness of the data  reflects the feature content of the data source, which a 1:125,000-scale planemetric map of Connecticut published by the U.S Geological Survey. This data is not updated.</complete>
+		<logic>Polygon features conform to the following topological rules. Polygons are single part. There are no duplicate polygons. Polygons do not self overlap. Polygons do not overlap other polygons. Establishment of logical consistency was orginally performed by the State of Connecticut, Department of Environmental Protection using ESRI ArcInfo software to manually create and control feature topology. The original minimum distance between vertices (ArcInfo Coverage fuzzy tolerance) and a minimum allowed overshoot length (ArcInfo Coverage dangle length) were not documented and unknown at the time this metadata was created in 2005. However, the original data was known to be topologically clean. After subsequently converting the data from ESRI ArcInfo Coverage to ESRI Shapefile format, no automated procedures or tests were performed to enforce the topology rules other than visual inspection.</logic>
+		<attracc>
+			<attraccr>All attributes have valid values. Values are within defined domains. The County number and County name polygon attributes were manually entered.</attraccr>
+		</attracc>
+	</dataqual>
+</metadata>
